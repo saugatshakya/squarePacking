@@ -1,3 +1,3 @@
 # SquarePacking
 
-SideTracked while simulating transt system, Inspired by circle packing but very inefficient and less functional
+SideTracked while simulating transit system, Inspired by circle packing but very inefficient and less functional
