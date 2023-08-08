@@ -1,5 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:test/homepage.dart';
+import 'package:test/homepage2.dart';
+import 'package:test/homepage3.dart';
+import 'package:test/homepage4.dart';
+import 'package:test/routing.dart';
 
 void main() {
   runApp(const MyApp());
@@ -26,7 +30,7 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.blue,
       ),
       debugShowCheckedModeBanner: false,
-      home: const HomePage(),
+      home: const RoutingWidget(),
     );
   }
 }

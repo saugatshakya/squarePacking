@@ -11,7 +11,7 @@ class HomePage extends StatefulWidget {
 
 class _HomePageState extends State<HomePage> {
   // double diameter = 16;
-  int maxRetries = 100;
+  int maxRetries = 1000;
   bool loading = false;
   double maxdiameter = 60;
   double mindiameter = 4;
